@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "csvGenerator": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
